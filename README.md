@@ -15,6 +15,10 @@ They provide many platforms to let you choose such as WIN, macOS, linux, android
 
 You can imagine that one is like what we are using Google drive.
 
+In addition, they provide a lot of applications inside that you can install it and enable those plug-in. We can notice that it includes various categories.
+
+![](./assets/app-inside.png)
+
 ## Download app
 
 From : https://nextcloud.com/install/
