@@ -38,6 +38,8 @@ You can find the controller in the right-down area.
 Here will show everything about the status like Google drive.
 ![](./assets/control-area.png)
 
+---
+# Installation
 ## Set the DB and your admin account
 When you log in initially, you have to set what kind of database you wanna use. If you just wanna try for fun, you can directly choose the **SQLite**. This one does not request to particularly build a database.
 However, if you wanna maintain for a long term use, it is better to proivde a formal database for nextcloud. Hence, I provide a [docker-compose](./docker-compose.yml) file to demonstrate how to connect it.
@@ -51,6 +53,8 @@ However, if you wanna maintain for a long term use, it is better to proivde a fo
 **NOTE:** choose the `MySQL` this one, and fill in the database username / database password / database name. Especially, the last one just fills in the `db`. That's all. 
 
 Done!
+
+>If you wanna see detail setting about functionality, you can check [here](./Adjust-detail-setting.md).
 
 ## Reference
 - [This is a chinese article that it shows how to rapidly build one Nextcloud via one commnad](https://zhuanlan.zhihu.com/p/108301496)
